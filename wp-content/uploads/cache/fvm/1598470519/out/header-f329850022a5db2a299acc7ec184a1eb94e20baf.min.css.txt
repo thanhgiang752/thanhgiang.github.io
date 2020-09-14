@@ -1,0 +1,30 @@
+PROCESSED on Sun, 30 Aug 2020 07:18:02 +0000
+/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-includes/css/dist/block-library/theme.min.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/instagram-slider-widget/assets/css/jr-insta.css
+/wp-content/plugins/revslider/public/assets/css/rs6.css
+//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css
+/wp-content/plugins/instagram-slider-widget/assets/css/wis-header.css
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css
+/wp-content/uploads/elementor/css/custom-frontend.min.css
+/wp-content/uploads/elementor/css/post-6.css
+/wp-content/uploads/elementor/css/custom-pro-frontend.min.css
+/wp-content/uploads/js_composer/custom.css
+/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+/wp-content/uploads/porto_styles/bootstrap.css
+/wp-content/themes/porto/css/plugins.css
+/wp-content/themes/porto/css/theme.css
+/wp-content/themes/porto/css/shortcodes.css
+/wp-content/uploads/porto_styles/dynamic_style.css
+/wp-content/uploads/elementor/css/post-149.css
+/wp-content/themes/porto/style.css
+/wp-content/themes/trung-tam-anh-ngu-galaxy/style.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+PROCESSED from http://localhost/galaxy/galaxy/
