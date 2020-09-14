@@ -1,0 +1,77 @@
+.site-editor__import {
+  font-family: $eps-font-family-base;
+
+  .success-modal, .error-modal {
+	text-align: center;
+
+	&__description {
+	  font-weight: 600;
+	  font-size: 16px;
+	  color: $eps-gray-800;
+	}
+  }
+
+  .upload-box {
+	margin-top: 30px;
+	width: 100%;
+	background-color: $eps-gray-100;
+	padding: 10px;
+	text-align: center;
+
+	&__inner {
+	  height: 100%;
+	  width: 100%;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  border: 2px $eps-gray-300 dashed;
+	  transition: 200ms all;
+	  padding: 50px 10px;
+
+	  &--active {
+		border-color: $eps-theme-info;
+	  }
+	}
+
+	&__icon {
+	  display: block;
+	  font-size: 65px;
+	  color: $eps-gray-300
+	}
+
+	&__title {
+	  font-weight: 400;
+	  margin-top: 50px;
+	  font-size: 30px;
+	}
+
+	&__description {
+	  color: $eps-gray-500;
+	  font-size: 18px;
+	}
+
+	&__or {
+	  font-weight: 400;
+	  font-size: 18px;
+	  margin: 25px 0;
+	}
+
+	&__input {
+		display: none;
+	}
+  }
+}
+
+// Dark mode.
+
+.dark .site-editor__import {
+  .success-modal {
+	&__description {
+	  color: $eps-gray-400;
+	}
+  }
+
+  .upload-box {
+	background-color: $eps-dark-gray-700;
+  }
+}
