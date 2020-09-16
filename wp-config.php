@@ -21,7 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', 'C:\xampp1\htdocs\galaxy\wp-content\plugins\wp-super-cache/' );
+define( 'WPCACHEHOME', 'C:\xampp\htdocs\galaxy\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'galaxy' );
 
 /** MySQL database username */
